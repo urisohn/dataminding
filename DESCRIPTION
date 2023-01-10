@@ -1,6 +1,6 @@
 Package: dataminding
 Title: Functions to implement techniques from papers co-authored by Uri Simonsohn
-Version: 0.1.0.2023.01.07
+Version: 0.1.0.2023.01.10
 Authors@R: c(
     person(given = "Uri",
            family = "Simonsohn",
