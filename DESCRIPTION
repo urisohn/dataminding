@@ -1,0 +1,19 @@
+Package: dataminding
+Title: Functions to implement techniques from papers co-authored by Uri Simonsohn
+Version: 0.1.0.2023.01.07
+Authors@R: c(
+    person(given = "Uri",
+           family = "Simonsohn",
+           role = c("aut", "cre"),
+           email = "urisohn@gmail.com",
+           comment = c(ORCID = "0000-0002-8601-7211"))
+    )
+Description: The package implements functions for the following papers:
+    (1) Simonsohn, Montealegre & Evangelidis "Non-Random Effects" - Stimulus-Plots
+    (2) (coming 'soon')
+URL: https://github.com/urisohn/dataminding
+Imports: mgcv, emmeans (>= 1.8.1)
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
